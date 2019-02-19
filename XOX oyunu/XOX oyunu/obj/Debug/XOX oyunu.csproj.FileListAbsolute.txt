@@ -1,0 +1,11 @@
+C:\Users\orhan\Desktop\C# Projeleri\XOX oyunu\XOX oyunu\bin\Debug\XOX oyunu.exe.config
+C:\Users\orhan\Desktop\C# Projeleri\XOX oyunu\XOX oyunu\bin\Debug\XOX oyunu.exe
+C:\Users\orhan\Desktop\C# Projeleri\XOX oyunu\XOX oyunu\bin\Debug\XOX oyunu.pdb
+C:\Users\orhan\Desktop\C# Projeleri\XOX oyunu\XOX oyunu\obj\Debug\XOX oyunu.csprojResolveAssemblyReference.cache
+C:\Users\orhan\Desktop\C# Projeleri\XOX oyunu\XOX oyunu\obj\Debug\XOX_oyunu.Form1.resources
+C:\Users\orhan\Desktop\C# Projeleri\XOX oyunu\XOX oyunu\obj\Debug\XOX_oyunu.Properties.Resources.resources
+C:\Users\orhan\Desktop\C# Projeleri\XOX oyunu\XOX oyunu\obj\Debug\XOX oyunu.csproj.GenerateResource.Cache
+C:\Users\orhan\Desktop\C# Projeleri\XOX oyunu\XOX oyunu\obj\Debug\XOX oyunu.csproj.CoreCompileInputs.cache
+C:\Users\orhan\Desktop\C# Projeleri\XOX oyunu\XOX oyunu\obj\Debug\XOX oyunu.exe
+C:\Users\orhan\Desktop\C# Projeleri\XOX oyunu\XOX oyunu\obj\Debug\XOX oyunu.pdb
+C:\Users\orhan\Desktop\C# Projeleri\XOX oyunu\XOX oyunu\obj\Debug\XOX_oyunu.info.resources
